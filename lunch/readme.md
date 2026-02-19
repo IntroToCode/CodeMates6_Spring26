@@ -1,4 +1,4 @@
-# Replace with recipe name
+# Sweet Potato Fries
 
 ## Description
 
