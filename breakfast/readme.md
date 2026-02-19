@@ -1,4 +1,4 @@
-## Mettbrötchen v2
+## Mettbrötchen v3
 
 A simple German breakfast of raw minced pork mixed with garlic (Mett), spread on a bread roll (brötchen). Rooted in North Rhine-Westphalian culinary history, it originated as a way to utilize fresh pork, becoming a popular, rustic staple. In the 1970s, people used to make it into the shape of a hedgehog and then use raw onions to serve as the hedgehog "spikes", which is some typically weird German stuff!
 
