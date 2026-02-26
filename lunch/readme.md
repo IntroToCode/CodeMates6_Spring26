@@ -13,6 +13,7 @@ These sweet potato fries are crispy, easy to make, and perfectly seasoned.
 | Total Time | 75 minutes |
 | Servings |  4 |
 | Difficulty | Easy |
+| Spice Level | 🌶️🌶️ |
 | Tags | Just like Freehouse fries, counts as a full meal, technically vegan |
 
 <!-- Note the fields in the markdown table -->
