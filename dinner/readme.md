@@ -14,6 +14,7 @@ A legendary group dinner where everyone cooks their own food, wraps it in lettuc
 | Total Time | 1 day + 1 hour|
 | Servings | 6 |
 | Difficulty | Medium |
+| Spice Level | 🌶️🌶️🌶️ |
 | Tags | napkins required, vegetarians tolerated |
 
 <!-- Note the fields in the markdown table -->

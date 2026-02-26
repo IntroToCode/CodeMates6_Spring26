@@ -11,6 +11,7 @@ A simple German breakfast of raw minced pork mixed with garlic (Mett), spread on
 | Total Time | e.g. 20 minutes |
 | Servings | 1 |
 | Difficulty | Easy |
+| Spice Level | 🌶️ |
 | Tags | gross, traditional, raw, not-kosher, not-halal, tastes good tho, unique, German |
 
 <!-- Note the fields in the markdown table -->
