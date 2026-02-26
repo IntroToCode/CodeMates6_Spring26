@@ -20,7 +20,6 @@ A legendary group dinner where everyone cooks their own food, wraps it in lettuc
 <!-- Note the fields in the markdown table -->
 
 ### Ingredients:
-- [ ] add ingredient here
 - [ ] 1.5 pounds ribeye or sirloin, thinly sliced (bulgogi)
 - [ ] 2 pounds beef short ribs, flanken-cut (galbi)
 - [ ] 0.5 cups soy sauce
