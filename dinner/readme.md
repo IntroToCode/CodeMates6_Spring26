@@ -64,7 +64,7 @@ No tabletop grill? No problem. A cast iron skillet on high heat gives you great 
 
 Vegetarian guests? Marinate thick slices of king oyster mushrooms or tofu in the same sauce. Works beautifully.
 
-Drink pairing: Korean beer (Hite or Cass), soju mixed with beer (called "somaek"), or just sparkling water if you want to remember the evening.
+Drink pairing: KOREAN BEER (Hite or Cass), SOJU mixed with BEER (called "somaek"), or just sparkling water if you want to remember the evening.
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
 ### Author(s): Emma & Claude
