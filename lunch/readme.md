@@ -1,4 +1,4 @@
-# Sweet Potato Fries
+# Sweet Potato Fries (take 2)
 
 ## Description
 These sweet potato fries are crispy, easy to make, and perfectly seasoned.
